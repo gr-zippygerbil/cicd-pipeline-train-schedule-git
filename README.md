@@ -4,6 +4,9 @@ This is a simple train schedule app written using nodejs. It is intended to be u
 
 ## Running the app
 
+## I don't really know why I'm editing a README file as a sample of committing changes to GIT. I guess it's because I've forgotten how to be techie.
+
+
 It is not necessary to run this app locally in order to complete the learning activities, but if you wish to do so you will need a local installation of npm. Begin by installing the npm dependencies with:
 
     npm install
